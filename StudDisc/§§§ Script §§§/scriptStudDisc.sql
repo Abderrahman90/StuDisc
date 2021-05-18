@@ -1,8 +1,8 @@
 ﻿
-drop table utilisateur;
-drop table UtilisateurThematique;
-drop table Thematique;
-drop table publication
+--drop table utilisateur;
+--drop table PersonneThematique;
+--drop table Thematique;
+--drop table publication
 
 CREATE TABLE [dbo].[Personne] (
     [idPersonne]        INT          IDENTITY (1, 1) NOT NULL,

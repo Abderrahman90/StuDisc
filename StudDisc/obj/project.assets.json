@@ -587,19 +587,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mimoun\\.nuget\\packages\\": {}
+    "C:\\Users\\Abder\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mimoun\\source\\repos\\StudDisc\\StudDisc\\StudDisc.csproj",
+      "projectUniqueName": "C:\\Users\\Abder\\Desktop\\file rouge studisc\\StuDisc\\StudDisc\\StudDisc.csproj",
       "projectName": "StudDisc",
-      "projectPath": "C:\\Users\\Mimoun\\source\\repos\\StudDisc\\StudDisc\\StudDisc.csproj",
-      "packagesPath": "C:\\Users\\Mimoun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mimoun\\source\\repos\\StudDisc\\StudDisc\\obj\\",
+      "projectPath": "C:\\Users\\Abder\\Desktop\\file rouge studisc\\StuDisc\\StudDisc\\StudDisc.csproj",
+      "packagesPath": "C:\\Users\\Abder\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Abder\\Desktop\\file rouge studisc\\StuDisc\\StudDisc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mimoun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Abder\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -652,7 +652,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },

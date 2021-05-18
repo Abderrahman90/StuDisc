@@ -1,4 +1,6 @@
-﻿/*insert into Personne (nom, prenom, email, mdp,role) 
-values ('toto','toto','toto@hotmail.fr','123','Visiteur' )
-*/
-delete Personne  where idPersonne=1002 and role='visiteur'
+﻿--DROP TABLE Personne;
+--DROP TABLE PersonneThematique;
+insert into Personne (nom, prenom, email, mdp,role) 
+values ('Ait','Abder','email','123','Administrateur' )
+
+--delete Personne  where idPersonne=1002 and role='visiteur'
