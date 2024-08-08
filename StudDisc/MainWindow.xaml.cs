@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+﻿using StudDisc.Models;
+using System;
+>>>>>>> origin/developpement
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +28,11 @@ namespace StudDisc
         public MainWindow()
         {
             InitializeComponent();
+<<<<<<< HEAD
+=======
+
+           
+>>>>>>> origin/developpement
         }
     }
 }

@@ -2,7 +2,11 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:StudDisc"
+<<<<<<< HEAD
              StartupUri="MainWindow.xaml">
+=======
+             StartupUri="Views/IndexWindow.xaml">
+>>>>>>> origin/developpement
     <Application.Resources>
          
     </Application.Resources>

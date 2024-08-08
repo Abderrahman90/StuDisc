@@ -4,11 +4,16 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Abder\source\repos\StudDisc\StudDisc\obj\Debug\netcoreapp3.1\
+=======
+C:\Users\Abder\Desktop\file rouge studisc\StuDisc\StudDisc\obj\Debug\netcoreapp3.1\
+>>>>>>> origin/developpement
 StudDisc
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+<<<<<<< HEAD
 C:\Users\Abder\source\repos\StudDisc\StudDisc\App.xaml
 11407045341
 
@@ -17,4 +22,14 @@ C:\Users\Abder\source\repos\StudDisc\StudDisc\App.xaml
 MainWindow.xaml;
 
 False
+=======
+C:\Users\Abder\Desktop\file rouge studisc\StuDisc\StudDisc\App.xaml
+3520432069
+
+25-2021296339
+1971600640387
+MainWindow.xaml;Views\ActuWindow.xaml;Views\IndexWindow.xaml;
+
+True
+>>>>>>> origin/developpement
 

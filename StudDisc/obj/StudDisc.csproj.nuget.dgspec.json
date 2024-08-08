@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Abder\\source\\repos\\StudDisc\\StudDisc\\StudDisc.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Abder\\source\\repos\\StudDisc\\StudDisc\\StudDisc.csproj",
         "packagesPath": "C:\\Users\\Abder\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Abder\\source\\repos\\StudDisc\\StudDisc\\obj\\",
+=======
+    "C:\\Users\\Abder\\Desktop\\file rouge studisc\\StuDisc\\StudDisc\\StudDisc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abder\\Desktop\\file rouge studisc\\StuDisc\\StudDisc\\StudDisc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abder\\Desktop\\file rouge studisc\\StuDisc\\StudDisc\\StudDisc.csproj",
+        "projectName": "StudDisc",
+        "projectPath": "C:\\Users\\Abder\\Desktop\\file rouge studisc\\StuDisc\\StudDisc\\StudDisc.csproj",
+        "packagesPath": "C:\\Users\\Abder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abder\\Desktop\\file rouge studisc\\StuDisc\\StudDisc\\obj\\",
+>>>>>>> origin/developpement
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +53,19 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+<<<<<<< HEAD
+=======
+          "dependencies": {
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+>>>>>>> origin/developpement
           "imports": [
             "net461",
             "net462",
